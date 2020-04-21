@@ -7,7 +7,8 @@ module.exports = {
       },
 
       width:{
-        'lg': '32rem'
+        'lg': '32rem',
+        'md': '24rem'
       }
     },
   },
