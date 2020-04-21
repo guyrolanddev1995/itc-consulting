@@ -3,12 +3,13 @@ module.exports = {
     extend: {
       height:{
         'lg': '32rem',
-        '3/4-screen': '75vh'
+        'xl': '42rem',
+        'md': '30rem'
       },
 
       width:{
         'lg': '32rem',
-        'md': '24rem'
+        'md': '22rem',
       }
     },
   },
